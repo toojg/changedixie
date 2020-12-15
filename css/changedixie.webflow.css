@@ -441,7 +441,7 @@ a {
 @media screen and (max-width: 479px) {
   .left {
     margin-bottom: 0px;
-    padding-bottom: 30px;
+    padding-bottom: 70px;
   }
 
   .left-inner {
